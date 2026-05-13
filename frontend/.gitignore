@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+.env.*
+
+# Next.js Build Bundles
+.next/
+out/
+build/

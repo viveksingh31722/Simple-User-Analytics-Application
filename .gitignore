@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Environment keys and database credentials
+.env
+.env.*
+
+# Build directories
+frontend/.next/
+frontend/out/
