@@ -274,7 +274,7 @@ export default function Dashboard() {
               </div>
 
               <div style={{ marginTop: "16px", fontSize: "0.75rem", color: "var(--text-secondary)" }}>
-                <strong style={{ color: "white" }}>Lorem ipsum dolor</strong> — dynamic tracking coordinate streams aligned across global timestamps.
+                <strong style={{ color: "white" }}>Tracking</strong> — dynamic tracking coordinate streams aligned across global timestamps.
               </div>
             </div>
 
