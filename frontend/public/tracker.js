@@ -4,7 +4,7 @@
  * and viewport dimension capture for heatmap layout normalization.
  */
 (function () {
-  const BACKEND_API_URL = 'http://localhost:5000/api/events';
+  const BACKEND_API_URL = 'https://simple-user-analytics-application-fekh.onrender.com';
   const SESSION_KEY = 'causalfunnel_session_id';
   const ACTIVITY_KEY = 'causalfunnel_last_activity';
   const INACTIVITY_TIMEOUT_MS = 30 * 60 * 1000; // 30 minutes in milliseconds
